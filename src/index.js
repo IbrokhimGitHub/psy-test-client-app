@@ -4,8 +4,8 @@ import App from './App';
 
 // const root = ReactDOM.createRoot();
 ReactDOM.render(
-<div>sdasd</div>,
-    // <App />,
+
+    <App />,
     document.getElementById('root')
 
 );
